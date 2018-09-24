@@ -31,7 +31,7 @@ The project use jasmine where we made all test for this application.
 
 ## Test
 
-#RSS Feeds
+# RSS Feeds
 
 * Feeds are defined
 
@@ -39,16 +39,16 @@ The project use jasmine where we made all test for this application.
 
 * Names are defined
 
-#The menu
+# The menu
 
 * The menu is hidden
 
 * The menu changes (hidden-display)
 
-#Initial Entries
+# Initial Entries
 
 * Ensures loadFeed get at least a single entry
 
-#New Feed Selection
+# New Feed Selection
 
 * Ensures content actually changes on loadFeed
